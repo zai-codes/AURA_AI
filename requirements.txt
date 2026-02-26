@@ -1,0 +1,11 @@
+openai-whisper
+opencv-python
+torch
+torchvision
+torchaudio
+pyttsx3
+librosa
+sounddevice
+numpy
+ultralytics
+scipy
