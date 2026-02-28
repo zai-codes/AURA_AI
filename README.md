@@ -7,7 +7,7 @@
 **An AI-powered accessibility application helping people with visual and hearing impairments interact with their environment through computer vision, speech-to-text, and intelligent audio alerts.**
 
 ![alt text](image.png)(https://python.org)
-![gi](IMG_3533.jpeg)
+![alt text](IMG_3533.jpeg)(https://python.org)
 
 </div>
 
